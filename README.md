@@ -1,7 +1,7 @@
 # Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks
 This repository is the implementation for the paper "[Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks](https://arxiv.org/pdf/2311.06383)"
 
-![alt text](https://github.com/rit-git/datagen-hr/blob/main/figs/overview.png)
+![alt text](https://github.com/megagonlabs/rjdb/blob/main/figs/overview.png)
 
 ---
 ## 🛠️ **Dataset Construction Process**
