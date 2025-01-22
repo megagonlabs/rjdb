@@ -7,3 +7,6 @@ The dataset is divided into training, testing, and development (dev) sets to fac
 - **Experiences**: The list of experiences sampled from a skill-occupation graph, serving as the basis for generating the resume and job description.
 - **Experience-years**: The duration of activity for each experience.
 - **Filtered-information**: The list of filtered information from the Resume-matched, used to create the Resume-unmatched.
+
+You can find the training data here:
+https://drive.google.com/file/d/1BBizKz7Cow8i-a--AxQE2Ct2TAdNb2zf/view?usp=sharing
